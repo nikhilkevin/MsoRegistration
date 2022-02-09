@@ -34,7 +34,7 @@ const submissionRoute = ({NavigateToNext}) => {
                         <Typography sx={{ m: 1 }} variant="h5">Submission Route(s) </Typography>
                     </Grid> 
                 </Grid>
-                <LoadingButton onClick={handleme}>Test Next Button</LoadingButton> 
+                <LoadingButton onClick={handleme}>SUBMIT</LoadingButton> 
             </Box>
         </div>
     )
